@@ -1,0 +1,30 @@
+ENTREGA 2 - PARTES QUE FALTAN DEL PROYECTO
+Proyecto: Generación y clasificación de datos
+Estudiante: Kevin
+
+ESTADO ACTUAL
+
+Esta versión preliminar ya tiene funcionando:
+
+- GenerateInfoFiles (entrega 1): genera products.txt, salesmen.txt y los archivos
+  de ventas de cada vendedor con datos pseudoaleatorios y coherentes, usando los
+  métodos createProductsFile, createSalesManInfoFile y createSalesMenFile.
+- main: lee los archivos y genera salesmen_report.csv (vendedores ordenados por
+  dinero recaudado, de mayor a menor) y products_report.csv (productos ordenados
+  por cantidad vendida, de mayor a menor).
+- Documentación Javadoc en todas las clases y métodos.
+- Extra a: procesa más de un archivo de ventas por vendedor.
+- Extra c: detecta y reporta datos erróneos o incoherentes (productos que no
+  existen, cantidades o precios negativos, vendedores no registrados, archivos
+  vacíos y líneas mal escritas).
+
+LO QUE FALTA PARA LA ENTREGA FINAL (SEMANAS 7 Y 8)
+
+1. Archivo conslusion.txt con lo aprendido, las aplicaciones profesionales y las
+   dificultades del proyecto.
+2. Extra b: trabajar con archivos serializados (guardar y leer los objetos
+   Product y Salesman con serialización de Java).
+3. Pruebas con volúmenes grandes de datos (cientos de vendedores y miles de
+   ventas) para revisar el tiempo de ejecución.
+4. Revisión final de la documentación y del estilo del código antes de la
+   sustentación.

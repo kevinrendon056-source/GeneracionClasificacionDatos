@@ -1,0 +1,12 @@
+PA;452242946;Laura Sofía;González Martínez
+CC;795810902;Carlos;Ospina López
+CE;575333096;Juliana;Martínez López
+CC;496288803;Mateo;Torres Hernández
+CC;1008815451;Camilo Felipe;Ospina Torres
+CC;789529647;Sofía;Hernández Moreno
+CC;194505582;Sebastián;Rodríguez Rojas
+CC;206997477;María Juliana;Ruiz García
+CC;173963930;Santiago;Pérez González
+CC;599073920;Felipe Mateo;Hernández Restrepo
+CC;459141383;Valentina;Díaz Ruiz
+PA;547525886;Santiago;Ruiz Ospina

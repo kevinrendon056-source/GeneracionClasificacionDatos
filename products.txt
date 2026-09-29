@@ -1,0 +1,25 @@
+1001;Arroz 500 g;2700
+1002;Aceite 1 L;11300
+1003;Azúcar 1 kg;4400
+1004;Café 250 g;8200
+1005;Leche 1 L;4200
+1006;Huevos x 12;12200
+1007;Pan tajado;5900
+1008;Panela 500 g;3100
+1009;Frijol 500 g;5300
+1010;Lenteja 500 g;4100
+1011;Chocolate 250 g;6000
+1012;Atún en lata;8200
+1013;Pasta 500 g;3400
+1014;Sal 1 kg;1800
+1015;Harina de maíz 1 kg;3200
+1016;Queso campesino 500 g;12300
+1017;Mantequilla 250 g;7000
+1018;Jabón de loza;5500
+1019;Detergente 1 kg;15000
+1020;Papel higiénico x 4;9800
+1021;Crema dental;6500
+1022;Champú 400 ml;14100
+1023;Galletas x 6;4700
+1024;Gaseosa 1.5 L;5700
+1025;Jugo de naranja 1 L;6200
