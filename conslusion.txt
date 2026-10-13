@@ -1,0 +1,66 @@
+CONCLUSIÓN DEL PROYECTO
+Proyecto: Generación y clasificación de datos
+Módulo: Conceptos Fundamentales de Programación
+Estudiante: Kevin Samuel Rendón Tapias
+
+
+1. LO APRENDIDO DURANTE EL DESARROLLO DEL PROYECTO
+
+Empecé este módulo sin saber programar, así que este proyecto fue mi primer
+programa completo en Java. Aprendí a:
+
+- Leer y escribir archivos de texto plano, y a recorrer todos los archivos de
+  una carpeta que cumplen un patrón (sales_*.txt).
+- Partir cada línea con split(";") y convertir los textos a números con
+  Long.parseLong e Integer.parseInt.
+- Crear mis propias clases (Product y Salesman) con atributos privados,
+  constructor, getters y toString, en vez de manejar todo con arreglos sueltos.
+- Usar colecciones: ArrayList para listas y Map para encontrar rápido un
+  producto por su ID o un vendedor por su número de documento.
+- Ordenar listas con Comparator, de mayor a menor y con un segundo criterio
+  cuando hay empate.
+- Generar datos pseudoaleatorios con Random que además sean coherentes:
+  nombres y apellidos reales, documentos que no se repiten y precios realistas.
+- Manejar errores con try/catch y validar los datos de entrada para que el
+  programa no se caiga con un archivo mal escrito, sino que avise qué línea
+  está mal y siga.
+- Documentar el código con Javadoc y nombrar bien las variables y constantes.
+- Usar Git y GitHub para guardar y entregar el proyecto.
+
+
+2. POSIBLES APLICACIONES EN MI VIDA PROFESIONAL
+
+Este proyecto es una versión pequeña de algo muy común en las empresas: tomar
+datos de muchas fuentes, limpiarlos y sacar reportes. Lo que practiqué me sirve
+para:
+
+- Procesar archivos CSV o de texto que exportan otros sistemas (ventas,
+  inventarios, registros) y convertirlos en reportes útiles.
+- Validar datos antes de usarlos, algo clave para que un sistema sea confiable
+  y seguro: nunca confiar en que la entrada viene bien.
+- Generar datos de prueba para probar un programa sin usar información real
+  de personas.
+- Escribir código que otra persona pueda leer y mantener, gracias a la
+  documentación y a los buenos nombres.
+- Trabajar con control de versiones, que se usa en cualquier equipo de
+  desarrollo.
+
+
+3. DIFICULTADES PRESENTADAS DURANTE EL DESARROLLO
+
+- La mayor dificultad fue empezar desde cero: al inicio no entendía las
+  lecturas y tuve que estudiar los temas básicos (variables, ciclos, métodos,
+  arreglos, colecciones) mientras avanzaba el proyecto.
+- Aunque el proyecto es grupal, lo desarrollé solo, así que tuve que hacer
+  todas las partes y no pude repartir el trabajo ni discutir ideas con un
+  compañero.
+- Me atrasé con la primera entrega y tuve que ponerme al día para la segunda.
+- Entender cómo leer todos los archivos de una carpeta sin saber cuántos hay
+  ni cómo se llaman.
+- Decidir qué hacer con los datos erróneos (un producto que no existe, una
+  cantidad negativa, un vendedor que no está registrado): opté por descartar
+  solo el dato malo, avisar en consola y seguir con el resto.
+- Hacer que un vendedor con varios archivos de ventas sume todo en un solo
+  total.
+- Configurar el proyecto para que Eclipse lo abra con Java 8, como pide el
+  enunciado.
