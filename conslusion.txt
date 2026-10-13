@@ -51,9 +51,8 @@ para:
 - La mayor dificultad fue empezar desde cero: al inicio no entendía las
   lecturas y tuve que estudiar los temas básicos (variables, ciclos, métodos,
   arreglos, colecciones) mientras avanzaba el proyecto.
-- Aunque el proyecto es grupal, lo desarrollé solo, así que tuve que hacer
-  todas las partes y no pude repartir el trabajo ni discutir ideas con un
-  compañero.
+- Aunque el proyecto es grupal, lo desarrollé sin compañeros de grupo, así
+  que tuve que hacer todas las partes y no pude repartir el trabajo.
 - Me atrasé con la primera entrega y tuve que ponerme al día para la segunda.
 - Entender cómo leer todos los archivos de una carpeta sin saber cuántos hay
   ni cómo se llaman.
@@ -64,3 +63,11 @@ para:
   total.
 - Configurar el proyecto para que Eclipse lo abra con Java 8, como pide el
   enunciado.
+
+
+NOTA DE TRANSPARENCIA
+
+Para el desarrollo de este proyecto usé una herramienta externa de
+inteligencia artificial, Claude (de Anthropic), como apoyo para entender los
+temas, resolver dudas, revisar y probar el código y redactar parte de la
+documentación.
